@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/lmazardo/bataille_navale.svg?branch=master)](https://travis-ci.org/lmazardo/bataille_navale)
+
+
 Git
 ====
 Quelques pointeurs sur GIT :
