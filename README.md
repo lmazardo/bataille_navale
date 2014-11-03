@@ -10,6 +10,8 @@ Quelques pointeurs sur GIT :
 
 Initialiser un projet GIT à partir d'une arborescence existante.
 ----------------------------------------------------------------
+```
   git init                 # initialisation d'un dépot vide
   git add --verbose --all  # ajout de tous les fichiers (à l'index)
   git commit -m "initial import" # validation de la mise à l'index des fichiers
+```
