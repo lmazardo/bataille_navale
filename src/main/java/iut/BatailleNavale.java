@@ -45,6 +45,9 @@ public class BatailleNavale {
         nbBoat = 5;
         //return haveBoat;
     }
+    public static void main(String[] args) {
+		System.out.println("bataille navale");
+	}
 
     private boolean hasSurrender = false;
     private String player;
