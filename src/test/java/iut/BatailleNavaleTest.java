@@ -11,7 +11,7 @@ public class BatailleNavaleTest {
         BatailleNavale batailleNavale = new BatailleNavale();
 
         boolean initialize = batailleNavale.isInitialize();
-        assertEquals(false, initialize);
+        assertEquals(true, initialize);
     }
 
     @Test
