@@ -8,7 +8,9 @@ Quelques pointeurs sur GIT :
  * [livre progit fr v1] (http://git-scm.com/book/fr/v1)
  * [livre progit fr v2] (http://git-scm.com/book/en/v2)
  * [Schéma qui montre comment fonctionne le add/commit/push/pull/fetch] (http://assets.osteele.com/images/2008/git-transport.png)
-
+ * [S'entrainer avec git] (http://www.wei-wang.com/ExplainGitWithD3)
+ * [Si vraiment vous ne comprennez pas git] (https://imgs.xkcd.com/comics/git.png)
+ 
 Initialiser un projet GIT à partir d'une arborescence existante.
 ----------------------------------------------------------------
 ```
