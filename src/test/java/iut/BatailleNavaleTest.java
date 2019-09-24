@@ -11,7 +11,7 @@ public class BatailleNavaleTest {
         BatailleNavale batailleNavale = new BatailleNavale();
 
         boolean initialize = batailleNavale.isInitialize();
-        assertEquals(true, initialize);
+        assertEquals(false, initialize);
     }
 
     @Test
@@ -37,7 +37,7 @@ public class BatailleNavaleTest {
 
     @Test
     public void checkIfBattleIsFinishedWhenSurrendering() {
-        BatailleNavale batailleNavale = new BatailleNavale();
+        BatailleNavale batailtrueleNavale = new BatailleNavale();
 
         batailleNavale.surrender();
         boolean finished = batailleNavale.isFinished();
