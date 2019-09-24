@@ -18,7 +18,7 @@ public class BatailleNavaleTest {
     public void shouldHaveBoats() {
         BatailleNavale batailleNavale2 = new BatailleNavale();
 
-        assertEquals(false, batailleNavale2.haveBoats());
+        assertEquals(true, batailleNavale2.haveBoats());
     }
 
     @Test
