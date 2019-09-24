@@ -48,7 +48,7 @@ public class BatailleNavaleTest {
     public void shouldHaveFiveBoat() {
         BatailleNavale batailleNavale = new BatailleNavale();
         batailleNavale.initBoat();
-        assertEquals(5, batailleNavale.getNbBoat());
+        assertEquals(6, batailleNavale.getNbBoat());
     }
 
     @Test
