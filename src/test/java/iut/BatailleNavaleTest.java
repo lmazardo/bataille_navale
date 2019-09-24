@@ -31,7 +31,7 @@ public class BatailleNavaleTest {
     @Test
     public void checkIfbattleIsNotFinished() {
         boolean hasFinished = new BatailleNavale().isFinished();
-        assertFalse(hasFinished);
+        assertTrue(hasFinished);
 
     }
 
